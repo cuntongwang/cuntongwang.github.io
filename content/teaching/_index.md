@@ -103,7 +103,7 @@ Wang, Cuntong. _Social Statistics with Stata Applications_. (_社会统计学及
 
 - _Downloading data and do-files:_  <https://pan.baidu.com/s/1Xd2U6D_rMcBs4BFDQyNXUA> / code: dyvi
 
-[Downloading data and do-files](Social Statistics with Stata Applications/Social Statistics with Stata Applications_Data and Do Files.zip)
+[Downloading data and do-files](Social_Statistics_with_Stata_Applications/Social_Statistics_with_Stata_Applications_Data_and_Do_Files.zip)
 
 
 Wang, Cuntong. _Advanced_ _Social Statistics with Stata Applications_ (_进阶社会统计学及Stata应用_). Tsinghua University Press, 2025. In press.
