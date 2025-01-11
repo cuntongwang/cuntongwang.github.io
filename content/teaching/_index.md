@@ -95,7 +95,7 @@ Empirical Research Paper and Writing
 
 2020- _Social Statistics using Stata_ (MOOC, Program of Web-Delivery for Elaborate Courses), founded by Central University of Finance and Economics. <https://higher.smartedu.cn/course/66df7e41711dc30c34c4e7cc>
 
-## Course Textbooks
+## Textbooks
 
 ### Social Statistics and Econometrics
 
@@ -104,6 +104,7 @@ Wang, Cuntong. _Social Statistics with Stata Applications_. (_社会统计学及
 - _Downloading data and do-files:_ <uploads/resume.pdf>
 
 - <https://pan.baidu.com/s/1Xd2U6D_rMcBs4BFDQyNXUA> / code: dyvi
+- {{% staticref "uploads/cv.pdf" "newtab" %}}Download data and do-files{{% /staticref %}}
 
 Wang, Cuntong. _Advanced_ _Social Statistics with Stata Applications_ (_进阶社会统计学及Stata应用_). Tsinghua University Press, 2025. In press.
 
@@ -111,14 +112,14 @@ Wang, Cuntong. _From Linear Regression to Causal Inference_ (_从线性回归走
 
 ## Contact
 
-### Office
+_Office:_
 
 508, East Annex of the Library  
 School of Sociology and Psychology  
 Central University of Finance and Economics  
 Beijing, China
-ZIP: 100081
+100081
 
-### Email
+_Email:_
 
 [ctwang@cufe.edu.cn](mailto:ctwang@cufe.edu.cn)
