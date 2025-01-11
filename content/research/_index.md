@@ -122,9 +122,7 @@ Zhang, Jie, Sun, Weiwei, Kong, Yuanyuan, and **Wang, Cuntong**. (2012). Reliabil
 
 **Wang, Cuntong**. _Social Statistics with Stata Applications_. (_社会统计学及Stata应用_), Economics Science Press, 2024.
 
-Downloading Data and Do files:
-
-<https://pan.baidu.com/s/1Xd2U6D_rMcBs4BFDQyNXUA> Download code: dyvi
+- [Download data and do-files](https://cuntongwang.github.io/teaching/Social_Statistics_with_Stata_Applications/Social_Statistics_with_Stata_Applications_Data_and_Do_Files.zip)
 
 **Wang, Cuntong**. _Advanced_ _Social Statistics with Stata Applications_ (_进阶社会统计学及Stata应用_). Tsinghua University Press, 2025. In press.
 
