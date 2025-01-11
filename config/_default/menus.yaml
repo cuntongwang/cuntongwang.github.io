@@ -8,7 +8,7 @@ main:
     url: ""
     weight: 10
   - name: CV
-    url: uploads/resume.pdf  # Direct link to your CV PDF
+    url: cv/resume.pdf  # Direct link to your CV PDF
     weight: 20
   - name: Research
     url: research/
