@@ -101,11 +101,9 @@ Empirical Research Paper and Writing
 
 Wang, Cuntong. _Social Statistics with Stata Applications_. (_社会统计学及Stata应用_), Economics Science Press, 2024.
 
-- _Downloading data and do-files:_ <uploads/resume.pdf>
+- _Downloading data and do-files:_  <https://pan.baidu.com/s/1Xd2U6D_rMcBs4BFDQyNXUA> / code: dyvi
 
-- <https://pan.baidu.com/s/1Xd2U6D_rMcBs4BFDQyNXUA> / code: dyvi
-
-{{% staticref "uploads/resume.pdf" "newtab" %}}Download data and do-files{{% /staticref %}}
+{{< youtube D2vj0WcvH5c >}}
 
 Wang, Cuntong. _Advanced_ _Social Statistics with Stata Applications_ (_进阶社会统计学及Stata应用_). Tsinghua University Press, 2025. In press.
 
