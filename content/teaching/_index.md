@@ -21,7 +21,9 @@ a {
 
 ## Courses
 
-### For Undergraduate Students (at CUFE and Others from 2009)
+### For Undergraduate Students 
+
+_(At CUFE and Others from 2009)_
 
 Social Survey and Research Methods
 
@@ -49,7 +51,9 @@ Social Stratification and Mobility
 
 Gender Sociology
 
-### For Graduate Students (at CUFE and Others from 2009)
+### For Graduate Students 
+
+_(At CUFE and Others from 2009)_
 
 Categorical Data Regression
 
@@ -97,7 +101,9 @@ Empirical Research Paper and Writing
 
 Wang, Cuntong. _Social Statistics with Stata Applications_. (_社会统计学及Stata应用_), Economics Science Press, 2024.
 
-- _Downloading Data and Do files:_ <https://pan.baidu.com/s/1Xd2U6D_rMcBs4BFDQyNXUA> / code: dyvi
+- _Downloading data and do-files:_ <uploads/resume.pdf>
+
+- <https://pan.baidu.com/s/1Xd2U6D_rMcBs4BFDQyNXUA> / code: dyvi
 
 Wang, Cuntong. _Advanced_ _Social Statistics with Stata Applications_ (_进阶社会统计学及Stata应用_). Tsinghua University Press, 2025. In press.
 
@@ -111,9 +117,8 @@ Wang, Cuntong. _From Linear Regression to Causal Inference_ (_从线性回归走
 School of Sociology and Psychology  
 Central University of Finance and Economics  
 Beijing, China
-
 ZIP: 100081
 
 ### Email
 
-**[ctwang@cufe.edu](mailto:ctwang@cufe.edu.cn).cn**
+[ctwang@cufe.edu.cn](mailto:ctwang@cufe.edu.cn)
