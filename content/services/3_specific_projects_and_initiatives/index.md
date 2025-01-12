@@ -16,7 +16,7 @@ As a supervising instructor, I devote my efforts to guiding an innovative, stude
 
 For updates and more information, feel free to follow our WeChat Account: Cuntong Educational Consulting (存同教育咨询).
 
-**具体项目与活动案例**
+** 具体项目与活动案例
 
 代表性项目：存同教育咨询
 
@@ -28,9 +28,9 @@ For updates and more information, feel free to follow our WeChat Account: Cunton
 
 欢迎关注个人哔站：存同谈性不色变
 
-**附大学生创新创业项目简介：**
+** 附大学生创新创业项目简介：
 
-<p style="text-align:center;">[认识我们：存同教育咨询](https://mp.weixin.qq.com/s/gYC2RpYwjsfqYL-aPLD16g?token=1909586593&lang=zh_CN)</p>
+**[认识我们：存同教育咨询](https://mp.weixin.qq.com/s/gYC2RpYwjsfqYL-aPLD16g?token=1909586593&lang=zh_CN)**
 
 **组织志业**
 
@@ -40,6 +40,7 @@ For updates and more information, feel free to follow our WeChat Account: Cunton
 我们的项目具有“公益为主、商业为辅”的双重属性，以“低赢利-高投入”为特色，以商业化管理运营为模式，志在可持续地实现公益的内在价值和终极目的，在向社会提供知识科普及公益产品的同时，以学生能承受的折扣价格提供优质的专业服务。
 
 在这里，有丰富的社会资源以资共享，有志同道合的学子同侪情深，有卓越的学者、师长、业内专家循循善诱；在这里，有热忱，有希冀，有赤子之心；在这里，有你，有我，有人间。
+
 青青子衿，悠悠我心。云雾苍苍，山高水长。我们诚愿戴月披星，日夜兼程，与您一道谈天说地，披荆斩棘，直至人生更高处。
 
 我们期待与您相遇。
@@ -57,13 +58,14 @@ For updates and more information, feel free to follow our WeChat Account: Cunton
 ![screen reader text](https://cuntongwang.github.io/services/3_specific_projects_and_initiatives/Cuntong_Education_Logo.png "")
 
 此logo的设计灵感来源于象形文字——“心”，内嵌小篆“**存同教育**”，代表我们“一片冰心在玉壶”的服务宗旨。
+
 此“心”有三解：**一是**寓意本项目以大爱为基础的社会责任和价值关怀；**二是**寓意存正念，致良知，知行合一，上下求索，在追寻“心源”中实现内在超越；**三是**寓意此心安处是吾乡——“当志同道合的路交叉在一起时，那一刻，整个世界看起来就像是一个家园。”
 
 **项目简介**
 
 “存同教育咨询”项目下设三个子项目，分别为：**存同性与生殖健康工作室、存同未来人生规划工作室、存同实证研究工作室**。
 
-![screen reader text](https://cuntongwang.github.io/services/3_specific_projects_and_initiatives/specific_projects_and_initiatives_Projects.png "")
+![screen reader text](https://cuntongwang.github.io/services/3_specific_projects_and_initiatives/Cuntong_Education_Consulting_Projects.png "")
 
 **（一）存同性与生殖健康工作室**
 
@@ -83,31 +85,19 @@ P.S.，考虑到咨询市场价（尤其线下咨询价格）对于学生而言�
 
 我们竭诚为社会提供优质的性与生殖健康教育产品。产品涵盖公益与付费两个部分，具体包括**性与生殖健康课程**、**科普文章**、**科教视频**、**百科全书**、**社群运营**等内容：
 
-1
+**1. 性与生殖健康课程**：以王存同教授教学实践十余年且广受好评的校内课程为基础，进行再度打磨、精进与完善。
 
-**性与生殖健康课程**：以王存同教授教学实践十余年且广受好评的校内课程为基础，进行再度打磨、精进与完善。
+**2. 科普文章**：以常识科普、学术公益为主要目的，志在探索性与生殖健康事业、性教育、性科学研究的进展。
 
-2
+**3. 科教视频**：以知识科普为目的，兼具专业性与趣味性。
 
-**科普文章**：以常识科普、学术公益为主要目的，志在探索性与生殖健康事业、性教育、性科学研究的进展。
+**4. 百科全书**：作为一个性与生殖健康专门化、专业化的线上工具资源库，能够帮助读者及时查询、自主学习。
 
-3
-
-**科教视频**：以知识科普为目的，兼具专业性与趣味性。
-
-4
-
-**百科全书**：作为一个性与生殖健康专门化、专业化的线上工具资源库，能够帮助读者及时查询、自主学习。
-
-5
-
-**社群**：建立以学生和科学工作者为主体、跨越学界与业界的性与生殖健康知识社群，打破知识单向传播的壁垒，实现去中心化的知识交流、创造与共享。
+**5. 社群**：建立以学生和科学工作者为主体、跨越学界与业界的性与生殖健康知识社群，打破知识单向传播的壁垒，实现去中心化的知识交流、创造与共享。
 
 **（二）存同未来人生规划工作室**
 
 存同未来人生规划工作室，以**大学生**为主要服务群体，由特邀指导老师**王存同教授**开展一对一咨询，服务内容涵盖个体学业/职业发展规划及健康规划等业务，旨在为心有期许的学子推开一扇窗，照见广阔世界与自由高地；诚愿与您共燃心灯一盏，破迷暗以明斯道。让我们共商未来，共觅良方，以梦为马，不负韶华，携手探索生命的calling。
-
-&nbsp;
 
 **服务内容**
 
