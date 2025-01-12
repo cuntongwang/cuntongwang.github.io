@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: services
     content:
-      title: Services
+      title: Social Services
       filters:
         folders:
           - services
