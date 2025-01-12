@@ -1,7 +1,7 @@
 ---
 title: Personal Mission and Philosophy
 summary: ''
-date: ''
+date: 2025-01-12
 type: docs
 math: false
 tags:

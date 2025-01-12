@@ -1,7 +1,7 @@
 ---
 title: Specific Projects and Initiatives
 summary: ''
-date: ''
+date: 2025-01-12
 type: docs
 math: false
 tags:
