@@ -16,7 +16,7 @@ As a supervising instructor, I devote my efforts to guiding an innovative, stude
 
 For updates and more information, feel free to follow our WeChat Account: Cuntong Educational Consulting (存同教育咨询).
 
-** 具体项目与活动案例
+## 具体项目与活动案例
 
 代表性项目：存同教育咨询
 
@@ -28,7 +28,7 @@ For updates and more information, feel free to follow our WeChat Account: Cunton
 
 欢迎关注个人哔站：存同谈性不色变
 
-** 附大学生创新创业项目简介：
+## 附大学生创新创业项目简介：
 
 **[认识我们：存同教育咨询](https://mp.weixin.qq.com/s/gYC2RpYwjsfqYL-aPLD16g?token=1909586593&lang=zh_CN)**
 
