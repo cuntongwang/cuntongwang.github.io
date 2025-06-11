@@ -72,8 +72,6 @@ Zhang, Jie, Sun, Weiwei, Kong, Yuanyuan, and **Wang, Cuntong**. (2012). Reliabil
 
 ### Chinese
 
-**Wang, Cuntong**\*, Chen, Futing, WangDing, Yi. (2025). Extension and Application of Local Average Treatment Effects (LATE): Instrumental Variables Methods under a Heterogeneous Treatment Effects Framework (_局部平均干预效应（LATE）理论的扩展与应用 ——基于异质效应框架的工具变量法_). _Sociological Review_, In press.
-
 **Wang, Cuntong**, Han, Tingting, Zhang, Jie. (2022). Analysis of External Protective Factors for Suicidal Ideation Among College Students (_大学生自杀意念的外在保护因素分析_). _Chinese Journal of Mental Health_, 36(3): 243-247.
 
 Wang, Haigang, Zhao, Zhiwen, **Wang, Cuntong**, & Yuan, Jinqiu. (2021). Research on Population Growth in Xikangdege. _Studies in Chinese Economic History_ (_西康德格人口增长研究_), (3): 118-136.
